@@ -1,0 +1,70 @@
+@import url("https://fonts.googleapis.com/css2?family=Anuphan&display=swap");
+
+* {
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+  font-family: "Anuphan", sans-serif;
+}
+
+
+
+.bg-green {
+  background-color: #06693a;
+}
+
+/* dataAll tb*/
+#dataAll thead th {
+  background-color: #A4CAFA; 
+  color: #2E2E2E; 
+}
+
+#dataAll tbody td {    
+  background-color: #ecf0f1;
+}
+
+#dataAll a {  
+  color: #3498db; 
+}
+
+/*wait tb*/
+#wait thead th {
+  background-color: #A4CAFA; 
+  color: #2E2E2E; 
+}
+
+#wait tbody td {
+  background-color: #ecf0f1; 
+}
+
+#wait a {
+  color: #3498db; 
+}
+
+/*success tb*/
+#success thead th {
+  background-color: #A4CAFA;
+  color: #2E2E2E; 
+}
+
+#success tbody td {
+  background-color: #ecf0f1; 
+}
+
+#success a {
+  color: #3498db; 
+}
+
+/*inTime tb*/
+#inTime thead th {
+  background-color: #A4CAFA; 
+  color: #2E2E2E; 
+}
+
+#inTime tbody td {
+  background-color: #ecf0f1; 
+}
+
+#inTime a {
+  color: #3498db; 
+}
